@@ -1,9 +1,9 @@
-# Test Práctico
+# Proyecto Django API REST
 
 
 ###Instrucciones
 
-Se deberan instalar la siguientes dependencias:
+Se deberán instalar la siguientes dependencias:
 
 ```
 $ pip install Django==3.1.7
@@ -18,7 +18,7 @@ python manage.py loaddata data.json
 python manage.py runserver
 ```
 
-La aplicacion debera estar lista para recibir request en el siguiente url:  http://127.0.0.1:8000/
+La aplicacion deberá estar lista para recibir request en el siguiente url:  http://127.0.0.1:8000/
 
 
 ### Rutas API
