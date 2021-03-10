@@ -1,7 +1,7 @@
 # Proyecto Django API REST
 
 
-###Instrucciones
+### Instrucciones
 
 Se deberán instalar la siguientes dependencias:
 
